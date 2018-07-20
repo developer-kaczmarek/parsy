@@ -7,9 +7,9 @@ ___
 
 Необходимо сделать 3 шага:
 1) Выбрать из списка файл с изменениями и нажать скачать изменения, выбрать папку для скачивания (В списке присутствуют актуальные файлы с изменениями в расписании);
-![шаг1](https://github.com/developer-kaczmarek/parsy/raw/master/шаг1.jpg)
+![шаг1](https://github.com/developer-kaczmarek/parsy/raw/master/1шаг.jpg)
 2) Выбрать из списка файл для парсинга и нажать кнопку "показать изменения" (Список состоит из файлов, которые находятся в папке "files");
-![шаг2](https://github.com/developer-kaczmarek/parsy/raw/master/шаг2.jpg)
+![шаг2](https://github.com/developer-kaczmarek/parsy/raw/master/2шаг.jpg)
 3) Отправить изменения на стену сообщества в Вконтакте (Важно отметить присутствие в textarea символов `%0A`, благодаря им осуществляется перенос строки);
 ![шаг3](https://github.com/developer-kaczmarek/parsy/raw/master/шаг3.jpg)
 

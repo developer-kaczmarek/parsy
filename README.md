@@ -39,7 +39,7 @@ $pos = strpos($content, '401Пк');
 
 4) access_token - специальный ключ доступа. Он представляет собой строку из латинских букв и цифр. [Как получить ключ см. здесь](https://vk.com/dev/access_token)
 
-5) v - версия VK API ([Актуальную версию см. здесь]:https://vk.com/dev/versions)
+5) v - версия VK API [Актуальную версию см. здесь](https://vk.com/dev/versions)
 
-[Весь список параметров см. здесь]:https://vk.com/dev/wall.post
+[Весь список параметров см. здесь](https://vk.com/dev/wall.post)
 

@@ -41,5 +41,5 @@ $pos = strpos($content, '401Пк');
 
 5) v - версия VK API. [Актуальную версию см. здесь](https://vk.com/dev/versions)
 
-[Весь список параметров см. здесь](https://vk.com/dev/wall.post)
+[Весь список параметров для метода wall.post см. здесь](https://vk.com/dev/wall.post)
 
